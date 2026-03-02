@@ -1,6 +1,6 @@
 # What is Fusion?
 
-Fusion is a ulkan rendering framework written in C++.
+Fusion is a Vulkan rendering framework written in C++.
 
 It was originally developed as the early graphics foundation for FranchukOS, where it was later scrapped. The code is publicly available. **WARNING: This code is mostly broken and may not work. We are still working on a first release for Fusion and refactoring everything.**
 
